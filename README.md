@@ -1,12 +1,3 @@
-# medusa-starter-monster
-
-[![medusa-starter-monster](./cover-image.png)](https://medusa-starter-monster.netlify.com/)
-
-## About
-
-### Description
-
-Medusa Storefronts don't have to be boring. This starter is an elegant and beautiful [NextJS](https://nextjs.org) Storefront for [Medusa](https://medusajs.com). Styled using [TailwindCSS](https://tailwindcss.com), animations with [Framer Motion](https://www.framer.com/motion/), and deployed on [Vercel](https://vercel.com).
 
 ### Demo
 
